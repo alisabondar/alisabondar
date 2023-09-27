@@ -1,6 +1,6 @@
 ### Hi there, I'm Alisa 👋
 
-I’ve been pursuing a software engineer career after becoming fascinated by the intersection of medicine and tech at my last position. This lead me to Hack Reactor where I learned JavaScript, React, PostgreSQL, and more. Now, I'm on the hunt for a dynamic team to tackle healthcare and tech challenges together!
+I’ve been pursuing a software engineer career after becoming fascinated by the intersection of medicine and tech. Check out my projects where I utilized Javascript full stack technologies to build out responsive and accessible websites!
 
 <!--
 **alisabondar/alisabondar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
