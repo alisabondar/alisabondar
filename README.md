@@ -1,6 +1,6 @@
 ### Hi there, I'm Alisa 👋
 
-I’ve been pursuing a software engineer career after becoming fascinated by the intersection of medicine and tech. Check out my projects where I utilized Javascript full stack technologies to build out responsive and accessible websites!
+I’m a fullstack software engineer who thrives on solving problems—whether it’s debugging complex issues, building new features, or enhancing applications with AI-driven solutions.
 
 <!--
 **alisabondar/alisabondar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
