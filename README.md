@@ -1,18 +1,14 @@
-### Hi there, I'm Alisa 👋
+### Hi, I'm Alisa 👋
 
-I’m a fullstack software engineer who thrives on solving problems—whether it’s debugging complex issues, building new features, or enhancing applications with AI-driven solutions.
+I went from the operating room to shipping LLM-powered products. Working in the OR and ICU, I saw how much technology could fix in our outdated healthcare system, so I learned to build it.
 
-<!--
-**alisabondar/alisabondar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At AlphaSights I led the company's first LLM-powered workflow and a schema cleanup across 14 repositories. On the side, I build:
 
-Here are some ideas to get you started:
+- **[CipherChart](https://github.com/alisabondar/cipherchart)**: HIPAA-ready clinician dashboard with encrypted, searchable records, de-identified AI summaries and an audit trail on every view
+- **[FloraScape](https://florascaper.vercel.app)**: AI garden planner grounded in real climate data, with an animated pixel-art garden
+- **[inkloom](https://inkloom.vercel.app)**: template studio for artists that turns AI concepts into line art, palettes and a step-by-step plan
+- **[daily-diff](https://github.com/alisabondar/daily-diff)**: local-first AI news briefing that works with six LLM providers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript, React, Next.js, Python, FastAPI, Kotlin, PostgreSQL, AWS
+
+[alisabondar.com](https://alisabondar.com) · [LinkedIn](https://www.linkedin.com/in/alisabondar/)
